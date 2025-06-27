@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+           http://www.springframework.org/schema/beans 
+           http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Define your beans here -->
+     <!-- 'id' is the unique id for the bean, and class is the same class type (Vehicle.class)  -->
+    <bean id="vehicle" class="com.codeplay.beans.Vehicle">
+        <!-- this 'name' is the same as the 'name' field in the Vehicle class  -->
+        <!-- and the value assigned to the name filed is "Tesla Model X"  -->
+        <property name="name" value="Tesla Model X"/>
+    </bean>
+
+</beans>
