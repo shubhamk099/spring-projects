@@ -1,0 +1,15 @@
+com/codeplay/model/Person.class
+com/codeplay/aspects/LoggerAspect.class
+com/codeplay/components/tyres/MichelinTyres.class
+com/codeplay/components/breaks/DiskBrakes.class
+com/codeplay/components/speakers/BoseSpeakers.class
+com/codeplay/Main.class
+com/codeplay/components/speakers/SonySpeakers.class
+com/codeplay/interfaces/Brakes.class
+com/codeplay/service/VehicleService.class
+com/codeplay/components/tyres/BridgeStoneTyres.class
+com/codeplay/interfaces/Tyres.class
+com/codeplay/model/Song.class
+com/codeplay/model/Vehicle.class
+com/codeplay/config/ProjectConfig.class
+com/codeplay/interfaces/Speaker.class
